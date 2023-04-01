@@ -1,4 +1,4 @@
-import openai
+mport openai
 import asyncio
 from collections import Counter
 import csv
